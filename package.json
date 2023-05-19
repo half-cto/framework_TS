@@ -24,6 +24,10 @@
     "json-server": "^0.17.3"
   },
   "devDependencies": {
-    "buffer": "^5.7.1"
+    "assert": "^2.0.0",
+    "buffer": "^5.7.1",
+    "console-browserify": "^1.2.0",
+    "process": "^0.11.10",
+    "util": "^0.12.5"
   }
 }
